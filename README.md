@@ -7,6 +7,8 @@ How to setup PhpStorm
   - Status Bar
 - Tabs
   - 2x Shift -> Search for "Tab placement" -> Left
+- Show all funtion/method parameters
+  - Preferences->Editor->Inlay Hints->Parameter names->PHP->Show name for all arguments
 ## Theme
 Carbon by Luis Fernando Jimenez
 ## Font
